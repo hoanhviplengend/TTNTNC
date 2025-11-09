@@ -1,0 +1,31 @@
+Algorithm,n,Colors,Steps,Restarts,Time
+Backtracking,10,3,35,0,0.0
+Forward Checking,10,3,3,0,0.0009922981262207031
+Hill Climbing (Min-Conflicts),10,3,8,1,0.001001119613647461
+Backtracking,15,3,844,0,0.005003690719604492
+Forward Checking,15,3,3,0,0.0
+Hill Climbing (Min-Conflicts),15,3,11,1,0.002706289291381836
+Backtracking,20,3,9048,0,0.04267168045043945
+Forward Checking,20,3,3,0,0.0
+Hill Climbing (Min-Conflicts),20,3,10000,5,2.963454246520996
+Backtracking,25,3,8841,0,0.06903386116027832
+Forward Checking,25,3,3,0,0.0
+Hill Climbing (Min-Conflicts),25,3,10000,5,3.570319652557373
+Backtracking,30,3,8913,0,0.019044876098632812
+Forward Checking,30,3,3,0,0.0
+Hill Climbing (Min-Conflicts),30,3,10000,5,4.167607307434082
+Backtracking,10,4,17,0,0.0
+Forward Checking,10,4,4,0,0.0010175704956054688
+Hill Climbing (Min-Conflicts),10,4,6,1,0.0011203289031982422
+Backtracking,15,4,38,0,0.0
+Forward Checking,15,4,4,0,0.0
+Hill Climbing (Min-Conflicts),15,4,15,1,0.0
+Backtracking,20,4,51,0,0.0
+Forward Checking,20,4,4,0,0.0
+Hill Climbing (Min-Conflicts),20,4,4011,3,0.6428775787353516
+Backtracking,25,4,2381764,0,13.796040534973145
+Forward Checking,25,4,4,0,0.0008461475372314453
+Hill Climbing (Min-Conflicts),25,4,10000,5,3.433506488800049
+Backtracking,30,4,615524,0,2.9440512657165527
+Forward Checking,30,4,4,0,0.0
+Hill Climbing (Min-Conflicts),30,4,10000,5,3.7735891342163086
